@@ -68,7 +68,5 @@ Admin dashboard for club management
 
 User profiles and participation tracking
 
-👤 Author
-
+Author -
 Vishesh Gupta
-iOS Developer | Software Engineer Aspirant
