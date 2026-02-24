@@ -68,5 +68,3 @@ Admin dashboard for club management
 
 User profiles and participation tracking
 
-Author -
-Vishesh Gupta
