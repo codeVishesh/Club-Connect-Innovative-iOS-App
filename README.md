@@ -1,6 +1,6 @@
 # Club-Connect - Innovative-iOS-App
 
-📱 Club Connect – iOS Application
+ Club Connect – iOS Application
 
 UIKit · SwiftUI
 
