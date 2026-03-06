@@ -12,7 +12,7 @@ In many colleges, information about clubs and events is scattered across notice 
 
 The application focuses on usability, performance, and scalability, ensuring a smooth experience for both users and potential institutional adoption.
 
-✨ Key Features
+Key Features
 
 Centralized listing of college clubs and events
 
