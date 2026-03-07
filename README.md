@@ -24,7 +24,7 @@ Quick discovery and participation flow
 
 Scalable architecture for multi-college adoption
 
-🛠 Tech Stack
+Tech Stack
 
 Language: Swift
 
