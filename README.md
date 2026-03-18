@@ -34,7 +34,7 @@ Platform: iOS
 
 Architecture: Modular & reusable components
 
-🎨 UI & UX
+UI & UX
 
 Clean and modern interface
 
