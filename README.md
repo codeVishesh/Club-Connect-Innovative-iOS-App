@@ -44,7 +44,7 @@ Optimized for performance and accessibility
 
 Seamless transitions and navigation flows
 
-🧩 Architecture & Development Practices
+Architecture & Development Practices
 
 Modular code structure for maintainability
 
