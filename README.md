@@ -54,7 +54,7 @@ Industry-standard iOS development practices
 
 Scalable design for future enhancements
 
-🏆 Recognition
+Recognition
 
 This project was formally approved and recognized by Ashish Chowdhary, Head of Apple India, and Anand Pillai, Marketing Head of Apple Asia, highlighting its innovation, usability, and real-world relevance.
 
