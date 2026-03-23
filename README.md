@@ -1,7 +1,5 @@
 # Club-Connect - Innovative-iOS-App
 
- Club Connect – iOS Application
-
 UIKit · SwiftUI
 
 Club Connect is a modern iOS application designed to centralize college club and event information into a single, intuitive platform. The app simplifies how students discover, explore, and participate in campus activities, improving engagement and accessibility across the academic ecosystem.
