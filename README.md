@@ -64,5 +64,4 @@ Push notifications for events
 
 Admin dashboard for club management
 
-User profiles and participation tracking
 
