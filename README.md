@@ -60,8 +60,6 @@ Future Enhancements
 
 Backend integration for real-time updates
 
-Push notifications for events
-
 Admin dashboard for club management
 
 
