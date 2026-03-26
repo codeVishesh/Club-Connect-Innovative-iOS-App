@@ -58,8 +58,6 @@ This project was formally approved and recognized by Ashish Chowdhary, Head of A
 
 Future Enhancements
 
-Backend integration for real-time updates
-
 Admin dashboard for club management
 
 
