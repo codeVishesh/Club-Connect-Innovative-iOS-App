@@ -58,6 +58,5 @@ This project was formally approved and recognized by Ashish Chowdhary, Head of A
 
 Future Enhancements
 
-Admin dashboard for club management
 
 
