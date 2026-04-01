@@ -51,6 +51,3 @@ Reusable UI components
 Industry-standard iOS development practices
 
 Scalable design for future enhancements
-
-
-This project was formally approved and recognized by Ashish Chowdhary, Head of Apple India, and Anand Pillai, Marketing Head of Apple Asia, highlighting its innovation, usability.
