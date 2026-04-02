@@ -34,7 +34,7 @@ Architecture: Modular & reusable components
 
 UI & UX
 
-Clean and modern interface
+Clean interface
 
 Consistent design system
 
