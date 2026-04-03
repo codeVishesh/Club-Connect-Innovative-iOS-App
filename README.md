@@ -49,5 +49,3 @@ Modular code structure for maintainability
 Reusable UI components
 
 Industry-standard iOS development practices
-
-Scalable design for future enhancements
